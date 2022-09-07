@@ -148,6 +148,14 @@ $error="Something went wrong. Please try again";
       <div class="col-md-6">
         <h3>Contact Info</h3>
         <div class="contact_detail">
+            <div class="social-follow">
+            <a href="mailto:info@example.com">bhatbate_nepal@gmail.com</a> 
+              <ul>
+                <li><a href="https://www.facebook.com/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.twitter.com/"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
               <?php
 $pagetype=$_GET['type'];
 $sql = "SELECT Address,EmailId,ContactNo from tblcontactusinfo";

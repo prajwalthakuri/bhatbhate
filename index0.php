@@ -135,14 +135,14 @@
 						</section>
 					<section class="4u$ 12u$(medium) 12u$(small)">
 							<h3>Contact Us</h3>
-			<!--				<ul class="icons">
+						<!-- <ul class="icons">
 								<li><a href="#" class="icon rounded fa-twitter"><span class="label">Twitter</span></a></li>
 								<li><a href="#" class="icon rounded fa-facebook"><span class="label">Facebook</span></a></li>
 								<li><a href="#" class="icon rounded fa-pinterest"><span class="label">Pinterest</span></a></li>
 								<li><a href="#" class="icon rounded fa-google-plus"><span class="label">Google+</span></a></li>
 								<li><a href="#" class="icon rounded fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							</ul>
-					-->		<ul class="tabular">
+							</ul> -->
+						<ul class="tabular">
 								<li>
 									<h3>Address</h3>
 									ABC Road<br>
